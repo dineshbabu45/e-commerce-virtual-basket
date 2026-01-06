@@ -1,0 +1,23 @@
+## Backend
+backend/VirtualBasket.Api/bin/
+backend/VirtualBasket.Api/obj/
+backend/VirtualBasket.Api/*.db
+backend/VirtualBasket.Api/*.db-shm
+backend/VirtualBasket.Api/*.db-wal
+
+## Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+## IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## OS
+.DS_Store
+Thumbs.db
